@@ -28,30 +28,17 @@
 <tr>
 <td width="60%" valign="top">
 
-```python
-class SathishReddy:
-    def __init__(self):
-        self.role         = "Final-Year B.Tech Student — AI & ML"
-        self.location     = "Tiruvallur, Tamil Nadu, India"
-        self.current_lab  = "ML Research Intern @ IIT Hyderabad"
-        self.focus        = ["Machine Learning", "Deep Learning",
-                              "LLMs", "RAG", "Generative AI"]
-        self.philosophy   = "Learn by building, ship end-to-end."
-
-    def currently_building(self):
-        return "PEC AI Assistant — a RAG chatbot for my college"
-
-    def currently_learning(self):
-        return ["Advanced RAG", "LangGraph", "MLOps"]
-
-    def looking_to_collaborate_on(self):
-        return "Open-source AI / LLM projects"
-
-    def reach_me(self):
-        return "sathishreddymanne@gmail.com"
-
-sathish = SathishReddy()
-```
+| | |
+|---|---|
+| 🎓 **Role** | Final-Year B.Tech Student — AI & ML |
+| 📍 **Location** | Tiruvallur, Tamil Nadu, India |
+| 🔬 **Current Lab** | ML Research Intern @ IIT Hyderabad |
+| 🎯 **Focus Areas** | Machine Learning · Deep Learning · LLMs · RAG · Generative AI |
+| 🧭 **Philosophy** | Learn by building, ship end-to-end |
+| 🔨 **Currently Building** | PEC AI Assistant — a RAG chatbot for my college |
+| 📚 **Currently Learning** | Advanced RAG · LangGraph · MLOps |
+| 🤝 **Open to Collaborate On** | Open-source AI / LLM projects |
+| 📬 **Reach Me** | sathishreddymanne@gmail.com |
 
 </td>
 <td width="40%" valign="top">
